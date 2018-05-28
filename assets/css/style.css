@@ -115,11 +115,39 @@ img{
     left: 305px;
     
 }
+#hangmanText
+{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: auto;
+    top: 128px;
+    width: 200px;
+    height: 40px;
+    padding: 20px 0px 0px 0px;
+    bottom: 0px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+}
 #triviagame
 {
     position: absolute;
     top: 410px;
     left: 305px;
+}
+#triviaGameText
+{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 310px;
+    top: 540px;
+    width: 195px;
+    height: 48px;
+    padding: 20px 0px 0px 0px;
+    bottom: 0px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
 }
 #rockpaper
 {
@@ -128,11 +156,39 @@ img{
     left: 305px;
     
 }
+#rockPaperText
+{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 308px;
+    top: 758px;
+    width: 195px;
+    height: 40px;
+    padding: 20px 0px 0px 0px;
+    bottom: 0px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+}
 #game
 {
     position: absolute;
     top: 200px;
     left: 550px;
+}
+#gameText
+{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 552px;
+    top: 333px;
+    width: 198px;
+    height: 40px;
+    padding: 20px 0px 0px 0px;
+    bottom: 0px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
 }
 #info
 {
@@ -140,7 +196,62 @@ img{
     top: 410px;
     left: 550px;
 }
-.submit
+
+#infoText
+{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 551px;
+    top: 539px;
+    width: 198px;
+    height: 44px;
+    padding: 20px 0px 0px 0px;
+    bottom: 0px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+}
+
+    
+
+#Name1
+{  
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: auto;
+    top: 1px;
+    width: 150px;
+    height: 60px;
+    padding: 20px 0px 0px 0px;
+    bottom: 0px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-weight: bold;
+    text-align: center;
+}
+.Contact
+{
+    position: absolute;
+    left: 280px;
+    top:90px;
+    width: 960px;
+    height: 550px;
+    margin: auto;
+    
+    background-color: #ffffff;
+}
+.Name
+{
+    position: absolute;
+    top: 50px;
+    left: 27px;
+    width: 910px;
+    height: 500px;
+    color: #777777;
+    margin: auto;
+    
+}
+.btn-primary
 {  
     font-family: Arial, Helvetica, sans-serif;
     width: 150px;
